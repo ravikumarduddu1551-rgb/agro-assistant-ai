@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+tensorflow
+firebase-admin
+pydantic
+google-genai
+python-dotenv
+Pillow
