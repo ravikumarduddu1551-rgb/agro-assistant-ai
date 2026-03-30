@@ -1,0 +1,37 @@
+# Environment variables (SECURITY - never push API keys)
+.env
+backend/.env
+frontend/.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+
+# Uploads
+uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+ntuser.*
+NTUSER.*
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Gemini
+.gemini/
